@@ -1,10 +1,10 @@
-![Data Engineering 4 _Large_]()
+![Data Engineering 4 _Large_](171359691-fd4f1d9f-14d2-4de3-94d7-b46b1c9e7711.jpg)
 
-# Data_Engineering_Championship
+# MachineHack: Data Engineering Championship 2022
 
 Link to Competition [here](https://machinehack.com/hackathons/data_engineering_championship/overview).
 
-### All you need to know about the ‘Data Engineering Championship’
+## All you need to know about the ‘Data Engineering Championship’:
 
 With the dataset provided, the participants need to analyse and create features of the following description.
 
@@ -19,7 +19,7 @@ With the dataset provided, the participants need to analyse and create features 
 * 'SEAT_DISTRIBUTION_NORMALISED': normalized values of ratio of seats and in  concurrent flight
 
 
-### Data Description
+## Data Description:
 
 | __Variable__ | __Description__ |
 |-------------|------------|
@@ -50,5 +50,5 @@ With the dataset provided, the participants need to analyse and create features 
 | TMAX| Max temperature for the day |
 | AWND| Max wind speed for the day |
 
-### Evaluation Metric
+## Evaluation Metric:
 The evaluation metrics for this competition is [mean absolute error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html#sklearn-metrics-mean-absolute-error)
